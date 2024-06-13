@@ -30,7 +30,7 @@ My research interests include **Trustworthy AI (Robustness, Fairness, and Interp
 
 # 📖 Educations
 - *2022.08 - 2026.07 (now)*, Ph.D. Candidate in Computer Science and Engineering Department, CUHK, Hong Kong SAR. 
-- *2017.09 - 2022.07*, Bachelor in Mathematics and Information Engineering (double major), CUHK, Hong Kong SAR. 
+- *2017.09 - 2022.07*, Bachelor of Science in Mathematics and Information Engineering (double major), CUHK, Hong Kong SAR. 
 
 # 📝 Publications 
 
