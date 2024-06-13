@@ -61,6 +61,7 @@ Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
 <span class='anchor' id='experiences'></span>
 # 💻 Experiences
 - *2021.08 - 2022.04*: Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR
+- *2021.05 - 2021.08*：Research Assistant, advised by [Prof. Eliza Mik](https://www.law.cuhk.edu.hk/app/people/prof-eliza-mik/), Department of Law, CUHK, Hong Kong SAR
 - *2020.08 - 2020.12*: Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR
 - *2019.01 - 2019.03*: Financial Internship, Guotai Junan Securities, Hunan Changsha
 
