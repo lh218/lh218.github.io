@@ -29,8 +29,8 @@ My research interests include **Trustworthy AI (Robustness, Fairness, and Interp
 - *2022.08*: &nbsp;🎉 Start the journey as a Ph.D. student at CSE, CUHK!
 
 # 📖 Educations
-- *2022.08 - 2026.07 (now)*, Ph.D. Candidate in Computer Science and Engineering Department, CUHK, Hong Kong SAR. 
-- *2017.09 - 2022.07*, Bachelor of Science in Mathematics and Information Engineering (double major), CUHK, Hong Kong SAR. 
+- *2022.08 - 2026.07 (now)*: Ph.D. Candidate in Computer Science and Engineering Department, CUHK, Hong Kong SAR. 
+- *2017.09 - 2022.07*: Bachelor of Science in Mathematics and Information Engineering (double major), CUHK, Hong Kong SAR. 
 
 # 📝 Publications 
 
@@ -75,7 +75,7 @@ Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
 
 <span class='anchor' id='-languages-and-skills'></span>
 # ⌨️ Languages and Skills
-- Languages: English (Advanced), Cantonese (Intermediate), Putonghua (Native)
+- Languages: **English** (Advanced), **Cantonese** (Intermediate), **Putonghua** (Native)
 - Programming Skills: **Python (Main), Pytorch (Main)**, Matlab, R, C, C++, C#, Julia, LaTeX
 
 <span class='anchor' id='teaching'></span>
