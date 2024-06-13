@@ -60,9 +60,9 @@ Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
 
 
 # 💻 Experiences
-- *2021.08 - 2022.04*, Research Assistant, advised by Prof. Anthony MC So, Department of System Engineering and Engineering Management, CUHK, Hong Kong SAR
-- *2020.08 - 2020.12*, Research Assistant, advised by Prof. Anthony MC So, Department of System Engineering and Engineering Management, CUHK, Hong Kong SAR
-- *2019.01 - 2019.03*, Financial Internship, Guorai Junan Securities, Hunan Changsha
+- *2021.08 - 2022.04*, Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR
+- *2020.08 - 2020.12*, Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR
+- *2019.01 - 2019.03*, Financial Internship, Guotai Junan Securities, Hunan Changsha
 
 # 🎖 Honors and Awards
 - *2022*, Postgraduate Studentship Scholarship Scheme, CUHK Computer Science and Engineering Department
