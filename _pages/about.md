@@ -41,7 +41,7 @@ My research interests include **Trustworthy AI (Robustness, Fairness, and Interp
 
 **Haoyu Lei**, Amin Gohari, Farzan Farnia 
 
-[**Project**](https://github.com/lh218/Fairness-IB)
+[**Arxiv**](https://github.com/lh218/Fairness-IB)
 - We Theoretically show that Inductive Biases widely exist in DP-based fair supervised learning algorithms, and further propose a distributionally robust optimization framework to mitigate the biases. 
 </div>
 </div>
