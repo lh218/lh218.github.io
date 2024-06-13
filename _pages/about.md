@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lorem ipsum"
+title: "Haoyu Lei (雷浩瑀)"
 excerpt: ""
 author_profile: true
 redirect_from: 
