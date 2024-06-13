@@ -26,35 +26,38 @@ My research interests include **Trustworthy AI (Robustness, Fairness, and Interp
 
 # 🔥 News
 - *2024.04*: &nbsp;🎉 One paper is accepted by UAI 2024
-- *2022.08*: &nbsp;🎉 Start the journey as a Ph.D. student
+- *2022.08*: &nbsp;🎉 Start the journey as a Ph.D. student at CSE, CUHK!
 
 # 📖 Educations
-- *2022.08 - 2026.07 (now)*, Ph.D. Candidate, CUHK. 
-- *2017.09 - 2022.07*, Bachelor, Mathematics and Information Engineering, CUHK. 
+- *2022.08 - 2026.07 (now)*, Ph.D. Candidate, CUHK, Hong Kong SAR. 
+- *2017.09 - 2022.07*, Bachelor, Mathematics and Information Engineering, CUHK, Hong Kong SAR. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UAI 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UAI 2024</div><img src='images/WechatIMG1129.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[On the Inductive Biases of Demographic Parity-based Fair Learning Algorithms](https://arxiv.org/abs/2402.18129)
 
 **Haoyu Lei**, Amin Gohari, Farzan Farnia 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://github.com/lh218/Fairness-IB)
+- We Theoretically show that Inductive Biases widely exist in DP-based fair supervised learning algorithms, and further propose a distributionally robust optimization framework to mitigate the biases. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# 🏫 Research Experiences
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# ⌨️ Skills and Languages
 
 # 💬 Teaching
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023-24 Spring*, CSCI5030 Machine Learning Theory (Postgraduate)
+- *2023-24 Fall*,   ENGG2760A Probability for Engineers (Undergraduate)
+- *2022-23 Spring*, ENGG1003SG Digital Literacy and Computational Thinking (Undergraduate)
+- *2022-23 Fall*,   AIST3010 Numerical Optimization (Undergraduate)
+
