@@ -64,6 +64,7 @@ Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
 - *2020.08 - 2020.12*, Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR
 - *2019.01 - 2019.03*, Financial Internship, Guotai Junan Securities, Hunan Changsha
 
+<span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
 - *2022*, Postgraduate Studentship Scholarship Scheme
 - *2021*, Chung Chi College Departmental Prize **(Graduation Top 10%)**
