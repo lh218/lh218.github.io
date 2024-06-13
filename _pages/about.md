@@ -61,8 +61,6 @@ Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
 
 # 💻 Internships
 
-# 🏫 Research Experiences
-
 # 🎖 Honors and Awards
 - *2022*, Postgraduate Studentship Scholarship Scheme, CUHK Computer Science and Engineering Department
 - *2021*, Chung Chi College Departmental Prize (Graduation Top 10%), CUHK Chung Chi College
@@ -71,10 +69,12 @@ Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
 - *2019 - 2021*, ELITE Stream Scholarship, CUHK Faculty of Engineering
 - *2017*, Top 0.015% in Hunan Province's Gaokao (University Entrance Exam)
 
+<span class='anchor' id='language-and-skills'></span>
 # ⌨️ Languages and Skills
 - Languages: English (Advanced), Cantonese (Intermediate), Putonghua (Native)
 - Programming Skills: Python (Main), Pytorch (Main), Matlab, R, C, C++, C#, Julia, LaTeX
 
+<span class='anchor' id='teaching'></span>
 # 💬 Teaching
 - *2023-24 Spring*, CSCI5030 Machine Learning Theory (Postgraduate)
 - *2023-24 Fall*,   ENGG2760A Probability for Engineers (Undergraduate)
