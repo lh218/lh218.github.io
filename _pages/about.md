@@ -67,7 +67,7 @@ Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
 # 🎖 Honors and Awards
 - *2022*, Postgraduate Studentship Scholarship Scheme
 - *2021*, Chung Chi College Departmental Prize **(Graduation Top 10%)**
-- *2019, 2021*, **Dean's List (Top 10%)**, CUHK Faculty of Engineering
+- *2019, 2021*, Dean's List **(Annual Top 10%)** 
 - *2019 - 2021*, Chung Chi College Class Scholarship **(College Top 10%)**
 - *2019 - 2021*, ELITE Stream Scholarship
 - *2017*, **Top 0.015%** in Hunan Province's Gaokao (University Entrance Exam)
