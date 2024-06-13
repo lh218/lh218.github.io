@@ -17,18 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a Ph.D. Candidate in The Chinese University of Hong Kong (CUHK), Department of Computer Science and Engineering
+I am now a Ph.D. Candidate at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/chinese/index.html)), Department of Computer Science and Engineering from 2022, advised by [Prof. Farzan Farnia](https://www.cse.cuhk.edu.hk/~farnia/). I also collaborate with [Prof. Amin Gohari(https://www.ie.cuhk.edu.hk/faculty/gohari-amin/)].
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I graduated from Mathematics and Information Engineering, a double-major program jointly offered by the Department of Mathematics and the Department of Information Engineering at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/chinese/index.html)), with a Bachelor's Degree in the Honor Class [ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite). It's my pleasure to be kindly advised by [Prof. Chandra Nair](https://chandra.ie.cuhk.edu.hk/) and [Prof. Anthony MC So](https://www1.se.cuhk.edu.hk/~manchoso/).
+
+My research interests include Trustworthy AI (Robustness, Fairness, and Interpretability) and Machine Learning Theory based on Optimization Theory and Information Theory. I also seek relevant applications in LLMs and Multi-modal reasoning.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2024.04*: &nbsp;🎉 One paper is accepted by UAI 2024
+- *2022.08*: &nbsp;🎉 Start the journey as a Ph.D. student
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.08 - 2026.07 (now)*, Ph.D. Candidate, CUHK. 
+- *2017.09 - 2022.07*, Bachelor, Mathematics and Information Engineering, CUHK. 
 
 # 📝 Publications 
 
