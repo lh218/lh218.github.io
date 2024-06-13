@@ -58,7 +58,7 @@ Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
 </div>
 </div>
 
-
+<span class='anchor' id='experiences'></span>
 # 💻 Experiences
 - *2021.08 - 2022.04*, Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR
 - *2020.08 - 2020.12*, Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR
@@ -67,7 +67,7 @@ Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
 # 🎖 Honors and Awards
 - *2022*, Postgraduate Studentship Scholarship Scheme, CUHK Computer Science and Engineering Department
 - *2021*, Chung Chi College Departmental Prize (Graduation Top 10%), CUHK Chung Chi College
-- *2019, 2021*, Dean's List (Top 10\%), CUHK Faculty of Engineering
+- *2019, 2021*, Dean's List (Top 10%), CUHK Faculty of Engineering
 - *2019 - 2021*, Chung Chi College Class Scholarship (College Top 10%), CUHK Chung Chi College
 - *2019 - 2021*, ELITE Stream Scholarship, CUHK Faculty of Engineering
 - *2017*, Top 0.015% in Hunan Province's Gaokao (University Entrance Exam)
