@@ -25,7 +25,7 @@ My research interests include **Trustworthy AI (Robustness, Fairness, and Interp
 
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉 One paper is accepted by UAI 2024
+- *2024.04*: &nbsp;🎉 One paper is accepted by UAI 2024!
 - *2022.08*: &nbsp;🎉 Start the journey as a Ph.D. student at CSE, CUHK!
 
 # 📖 Educations
@@ -59,7 +59,10 @@ Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
 </div>
 
 
-# 💻 Internships
+# 💻 Experiences
+- *2021.08 - 2022.04*, Research Assistant, advised by Prof. Anthony MC So, Department of System Engineering and Engineering Management, CUHK, Hong Kong SAR
+- *2020.08 - 2020.12*, Research Assistant, advised by Prof. Anthony MC So, Department of System Engineering and Engineering Management, CUHK, Hong Kong SAR
+- *2019.01 - 2019.03*, Financial Internship, Guorai Junan Securities, Hunan Changsha
 
 # 🎖 Honors and Awards
 - *2022*, Postgraduate Studentship Scholarship Scheme, CUHK Computer Science and Engineering Department
