@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+# <span class='anchor' id='about-me'></span>
 
 I am now a Ph.D. Candidate at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/chinese/index.html)), Department of Computer Science and Engineering from 2022, advised by [Prof. Farzan Farnia](https://www.cse.cuhk.edu.hk/~farnia/). I also collaborate with [Prof. Amin Gohari](https://www.ie.cuhk.edu.hk/faculty/gohari-amin/).
 
@@ -60,18 +60,18 @@ Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
 
 <span class='anchor' id='experiences'></span>
 # 💻 Experiences
-- *2021.08 - 2022.04*, Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR
-- *2020.08 - 2020.12*, Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR
-- *2019.01 - 2019.03*, Financial Internship, Guotai Junan Securities, Hunan Changsha
+- *2021.08 - 2022.04*: Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR
+- *2020.08 - 2020.12*: Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR
+- *2019.01 - 2019.03*: Financial Internship, Guotai Junan Securities, Hunan Changsha
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
-- *2022*, Postgraduate Studentship Scholarship Scheme
-- *2021*, Chung Chi College Departmental Prize **(Graduation Top 10%)**
-- *2019, 2021*, Dean's List **(Annual Top 10%)** 
-- *2019 - 2021*, Chung Chi College Class Scholarship **(College Top 10%)**
-- *2019 - 2021*, ELITE Stream Scholarship
-- *2017*, **Top 0.015%** in Hunan Province's Gaokao (University Entrance Exam)
+- *2022*: Postgraduate Studentship Scholarship Scheme
+- *2021*: Chung Chi College Departmental Prize **(Graduation Top 10%)**
+- *2019, 2021*: Dean's List **(Academic Year Top 10%)** 
+- *2019 - 2021*: Chung Chi College Class Scholarship **(College Top 10%)**
+- *2019 - 2021*: ELITE Stream Scholarship
+- *2017*: **Top 0.015%** in Hunan Province's Gaokao (University Entrance Exam)
 
 <span class='anchor' id='-languages-and-skills'></span>
 # ⌨️ Languages and Skills
@@ -80,8 +80,8 @@ Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
 
 <span class='anchor' id='teaching'></span>
 # 💬 Teaching
-- *2023-24 Spring*, CSCI5030 Machine Learning Theory (Postgraduate)
-- *2023-24 Fall*,   ENGG2760A Probability for Engineers (Undergraduate)
-- *2022-23 Spring*, ENGG1003SG Digital Literacy and Computational Thinking (Undergraduate)
-- *2022-23 Fall*,   AIST3010 Numerical Optimization (Undergraduate)
+- *2023-24 Spring*: CSCI5030 Machine Learning Theory (Postgraduate)
+- *2023-24 Fall*:   ENGG2760A Probability for Engineers (Undergraduate)
+- *2022-23 Spring*: ENGG1003SG Digital Literacy and Computational Thinking (Undergraduate)
+- *2022-23 Fall*:   AIST3010 Numerical Optimization (Undergraduate)
 
