@@ -34,15 +34,27 @@ My research interests include **Trustworthy AI (Robustness, Fairness, and Interp
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UAI 2024</div><img src='images/WechatIMG1129.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UAI 2024</div><img src='images/UAI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[On the Inductive Biases of Demographic Parity-based Fair Learning Algorithms](https://arxiv.org/abs/2402.18129)
+**On the Inductive Biases of Demographic Parity-based Fair Learning Algorithms**
 
 **Haoyu Lei**, Amin Gohari, Farzan Farnia 
 
-[**Arxiv**](https://github.com/lh218/Fairness-IB)
+[**Paper**](https://arxiv.org/abs/2402.18129)/[**Code**](https://github.com/lh218/Fairness-IB)
 - We Theoretically show that Inductive Biases widely exist in DP-based fair supervised learning algorithms, and further propose a distributionally robust optimization framework to mitigate the biases. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2021</div><img src='images/ICASSP2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**An efficient alternating direction method for graph learning from smooth signals**
+
+Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
+
+[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9414791)
+- we cast the graph learning formulation as a nonsmooth, strictly convex optimization problem and develop an efficient alternating direction method of multipliers (ADMM) to solve it.
 </div>
 </div>
 
@@ -52,8 +64,16 @@ My research interests include **Trustworthy AI (Robustness, Fairness, and Interp
 # 🏫 Research Experiences
 
 # 🎖 Honors and Awards
+- *2022*, Postgraduate Studentship Scholarship Scheme, CUHK Computer Science and Engineering Department
+- *2021*, Chung Chi College Departmental Prize (Graduation Top 10%), CUHK Chung Chi College
+- *2019, 2021*, Dean's List (Top 10\%), CUHK Faculty of Engineering
+- *2019 - 2021*, Chung Chi College Class Scholarship (College Top 10%), CUHK Chung Chi College
+- *2019 - 2021*, ELITE Stream Scholarship, CUHK Faculty of Engineering
+- *2017*, Top 0.015% in Hunan Province's Gaokao (University Entrance Exam)
 
 # ⌨️ Skills and Languages
+- Language: English (Advanced), Cantonese (Intermediate), Putonghua (Native)
+- Programming: Python (Main), Pytorch (Main), Matlab, R, C, C++, C#, Julia, LaTeX
 
 # 💬 Teaching
 - *2023-24 Spring*, CSCI5030 Machine Learning Theory (Postgraduate)
