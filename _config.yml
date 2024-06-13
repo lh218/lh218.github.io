@@ -9,7 +9,7 @@
 title                    : "Haoyu Lei (雷浩瑀)"
 description              : "Ph.D. Candidate in CUHK, Computer Science and Engineering Department"
 repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/lh218"
+  github           : "lh218"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/haoyu-lei-629053206/"
+  linkedin         : "haoyu-lei-629053206"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
