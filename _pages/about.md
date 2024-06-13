@@ -30,14 +30,14 @@ My research interests include **Trustworthy AI (Robustness, Fairness, and Interp
 
 # 📖 Educations
 - *2022.08 - 2026.07 (now)*, Ph.D. Candidate in computer science, CUHK, Hong Kong SAR. 
-- *2017.09 - 2022.07*, Bachelor in Mathematics and Information Engineering, CUHK, Hong Kong SAR. 
+- *2017.09 - 2022.07*, Bachelor in Mathematics and Information Engineering (double major), CUHK, Hong Kong SAR. 
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UAI 2024</div><img src='images/UAI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**On the Inductive Biases of Demographic Parity-based Fair Learning Algorithms**
+*On the Inductive Biases of Demographic Parity-based Fair Learning Algorithms*
 
 **Haoyu Lei**, Amin Gohari, Farzan Farnia 
 
@@ -49,7 +49,7 @@ My research interests include **Trustworthy AI (Robustness, Fairness, and Interp
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2021</div><img src='images/ICASSP2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**An efficient alternating direction method for graph learning from smooth signals**
+*An Efficient Alternating Direction Method For Graph Learning From Smooth Signals*
 
 Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
 
@@ -65,17 +65,17 @@ Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
 - *2019.01 - 2019.03*, Financial Internship, Guotai Junan Securities, Hunan Changsha
 
 # 🎖 Honors and Awards
-- *2022*, Postgraduate Studentship Scholarship Scheme, CUHK Computer Science and Engineering Department
-- *2021*, Chung Chi College Departmental Prize (Graduation Top 10%), CUHK Chung Chi College
-- *2019, 2021*, Dean's List (Top 10%), CUHK Faculty of Engineering
-- *2019 - 2021*, Chung Chi College Class Scholarship (College Top 10%), CUHK Chung Chi College
-- *2019 - 2021*, ELITE Stream Scholarship, CUHK Faculty of Engineering
-- *2017*, Top 0.015% in Hunan Province's Gaokao (University Entrance Exam)
+- *2022*, Postgraduate Studentship Scholarship Scheme
+- *2021*, Chung Chi College Departmental Prize **(Graduation Top 10%)**
+- *2019, 2021*, **Dean's List (Top 10%)**, CUHK Faculty of Engineering
+- *2019 - 2021*, Chung Chi College Class Scholarship **(College Top 10%)**
+- *2019 - 2021*, ELITE Stream Scholarship
+- *2017*, **Top 0.015%** in Hunan Province's Gaokao (University Entrance Exam)
 
 <span class='anchor' id='languages-and-skills'></span>
 # ⌨️ Languages and Skills
 - Languages: English (Advanced), Cantonese (Intermediate), Putonghua (Native)
-- Programming Skills: Python (Main), Pytorch (Main), Matlab, R, C, C++, C#, Julia, LaTeX
+- Programming Skills: **Python (Main), Pytorch (Main)**, Matlab, R, C, C++, C#, Julia, LaTeX
 
 <span class='anchor' id='teaching'></span>
 # 💬 Teaching
