@@ -19,7 +19,7 @@ redirect_from:
 
 I am now a Ph.D. Candidate at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/chinese/index.html)), Department of Computer Science and Engineering from 2022, advised by [Prof. Farzan Farnia](https://www.cse.cuhk.edu.hk/~farnia/). I also collaborate with [Prof. Amin Gohari](https://www.ie.cuhk.edu.hk/faculty/gohari-amin/).
 
-I obtained my Bachelor's Degree in Mathematics and Information Engineering, a double-major program jointly offered by the Department of Mathematics and the Department of Information Engineering at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/chinese/index.html)), in the Honor Class [ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite). It's my pleasure to be kindly advised by [Prof. Chandra Nair](https://chandra.ie.cuhk.edu.hk/) and [Prof. Anthony MC So](https://www1.se.cuhk.edu.hk/~manchoso/).
+I obtained my Bachelor's Degree in Mathematics and Information Engineering, a double-major program jointly offered by the Department of Mathematics and the Department of Information Engineering at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/chinese/index.html)), within the Honor Class [ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite). It's my pleasure to be kindly advised by [Prof. Chandra Nair](https://chandra.ie.cuhk.edu.hk/) and [Prof. Anthony MC So](https://www1.se.cuhk.edu.hk/~manchoso/).
 
 My research interests include **Trustworthy AI (Robustness, Fairness, and Interpretability)** and **Machine Learning Theory (Optimization Theory and Information Theory)**. I also seek relevant applications in LLMs and Multi-modal reasoning.
 
