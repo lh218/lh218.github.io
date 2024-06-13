@@ -71,7 +71,7 @@ Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
 - *2019, 2021*: Dean's List **(Academic Year Top 10%)** 
 - *2019 - 2021*: Chung Chi College Class Scholarship **(College Top 10%)**
 - *2019 - 2021*: ELITE Stream Scholarship
-- *2017*: **Top 0.015%** in Hunan Province's Gaokao (University Entrance Exam)
+- *2017*: **Top 0.15%** in Hunan Province's Gaokao (University Entrance Exam)
 
 <span class='anchor' id='-languages-and-skills'></span>
 # ⌨️ Languages and Skills
