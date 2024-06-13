@@ -71,9 +71,9 @@ Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
 - *2019 - 2021*, ELITE Stream Scholarship, CUHK Faculty of Engineering
 - *2017*, Top 0.015% in Hunan Province's Gaokao (University Entrance Exam)
 
-# ⌨️ Skills and Languages
-- Language: English (Advanced), Cantonese (Intermediate), Putonghua (Native)
-- Programming: Python (Main), Pytorch (Main), Matlab, R, C, C++, C#, Julia, LaTeX
+# ⌨️ Languages and Skills
+- Languages: English (Advanced), Cantonese (Intermediate), Putonghua (Native)
+- Programming Skills: Python (Main), Pytorch (Main), Matlab, R, C, C++, C#, Julia, LaTeX
 
 # 💬 Teaching
 - *2023-24 Spring*, CSCI5030 Machine Learning Theory (Postgraduate)
