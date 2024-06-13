@@ -73,7 +73,7 @@ Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
 - *2019 - 2021*, ELITE Stream Scholarship
 - *2017*, **Top 0.015%** in Hunan Province's Gaokao (University Entrance Exam)
 
-<span class='anchor' id='invited-talks'></span>
+# <span class='anchor' id='languages-and-skills'></span>
 # ⌨️ Languages and Skills
 - Languages: English (Advanced), Cantonese (Intermediate), Putonghua (Native)
 - Programming Skills: **Python (Main), Pytorch (Main)**, Matlab, R, C, C++, C#, Julia, LaTeX
