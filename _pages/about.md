@@ -29,8 +29,8 @@ My research interests include **Trustworthy AI (Robustness, Fairness, and Interp
 - *2022.08*: &nbsp;🎉 Start the journey as a Ph.D. student at CSE, CUHK!
 
 # 📖 Educations
-- *2022.08 - 2026.07 (now)*, Ph.D. Candidate, CUHK, Hong Kong SAR. 
-- *2017.09 - 2022.07*, Bachelor, Mathematics and Information Engineering, CUHK, Hong Kong SAR. 
+- *2022.08 - 2026.07 (now)*, Ph.D. Candidate in computer science, CUHK, Hong Kong SAR. 
+- *2017.09 - 2022.07*, Bachelor in Mathematics and Information Engineering, CUHK, Hong Kong SAR. 
 
 # 📝 Publications 
 
@@ -42,7 +42,7 @@ My research interests include **Trustworthy AI (Robustness, Fairness, and Interp
 **Haoyu Lei**, Amin Gohari, Farzan Farnia 
 
 [**Paper**](https://arxiv.org/abs/2402.18129)/[**Code**](https://github.com/lh218/Fairness-IB)
-- We Theoretically show that Inductive Biases widely exist in DP-based fair supervised learning algorithms, and further propose a distributionally robust optimization framework to mitigate the biases. 
+- We theoretically show that Inductive Biases widely exist in DP-based fair supervised learning algorithms, and further propose a distributionally robust optimization framework to mitigate the biases. 
 </div>
 </div>
 
@@ -54,7 +54,7 @@ My research interests include **Trustworthy AI (Robustness, Fairness, and Interp
 Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
 
 [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9414791)
-- we cast the graph learning formulation as a nonsmooth, strictly convex optimization problem and develop an efficient alternating direction method of multipliers (ADMM) to solve it.
+- We cast the graph learning formulation as a nonsmooth, strictly convex optimization problem and develop an efficient alternating direction method of multipliers (ADMM) to solve it.
 </div>
 </div>
 
