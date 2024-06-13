@@ -21,7 +21,7 @@ I am now a Ph.D. Candidate at The Chinese University of Hong Kong ([CUHK](https:
 
 I graduated from Mathematics and Information Engineering, a double-major program jointly offered by the Department of Mathematics and the Department of Information Engineering at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/chinese/index.html)), with a Bachelor's Degree in the Honor Class [ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite). It's my pleasure to be kindly advised by [Prof. Chandra Nair](https://chandra.ie.cuhk.edu.hk/) and [Prof. Anthony MC So](https://www1.se.cuhk.edu.hk/~manchoso/).
 
-My research interests include **Trustworthy AI (Robustness, Fairness, and Interpretability)** and **Machine Learning Theory based on Optimization Theory and Information Theory**. I also seek relevant applications in LLMs and Multi-modal reasoning.
+My research interests include **Trustworthy AI (Robustness, Fairness, and Interpretability)** and **Machine Learning Theory (Optimization Theory and Information Theory)**. I also seek relevant applications in LLMs and Multi-modal reasoning.
 
 
 # 🔥 News
