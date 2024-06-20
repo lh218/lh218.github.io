@@ -25,6 +25,7 @@ My research interests include **Trustworthy AI (Robustness, Fairness, and Interp
 
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉 Join Huawei Noah's Ark Lab as a research intern!
 - *2024.04*: &nbsp;🎉 Our paper is accepted by UAI 2024!
 - *2022.08*: &nbsp;🎉 Start the journey as a Ph.D. student at CSE, CUHK!
 - *2021.05*: &nbsp;🎉 Our paper is accepted by ICASSP 2021!
@@ -61,6 +62,7 @@ Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
 
 <span class='anchor' id='experiences'></span>
 # 💻 Experiences
+- *2024.07 - Now*: Research internship, Huawei Noah's Ark Lab, Decision Making & Reasoning Group, Shenzhen, China
 - *2021.08 - 2022.04*: Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR
 - *2021.05 - 2021.08*：Research Assistant, advised by Prof. Eliza Mik, Department of Law, CUHK, Hong Kong SAR
 - *2020.08 - 2020.12*: Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR
