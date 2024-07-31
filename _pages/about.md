@@ -26,9 +26,9 @@ My research interests include **Trustworthy AI (Robustness, Fairness, and Interp
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉 Join Huawei Noah's Ark Lab as a research intern!
-- *2024.04*: &nbsp;🎉 Our paper is accepted by UAI 2024!
+- *2024.04*: &nbsp;🎉 Our paper is accepted by UAI 2024 (CORE Ranking: A+)!
 - *2022.08*: &nbsp;🎉 Start the journey as a Ph.D. student at CSE, CUHK!
-- *2021.05*: &nbsp;🎉 Our paper is accepted by ICASSP 2021!
+- *2021.05*: &nbsp;🎉 Our paper is accepted by ICASSP 2021 (CORE Ranking: B)!
 
 # 📖 Educations
 - *2022.08 - 2026.07 (now)*: Ph.D. Candidate in Computer Science and Engineering Department, CUHK, Hong Kong SAR. 
