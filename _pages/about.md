@@ -17,7 +17,7 @@ redirect_from:
 
 # <span class='anchor' id='about-me'></span>
 
-I am now a Ph.D. Candidate at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/chinese/index.html)), Department of Computer Science and Engineering from 2022, advised by [Prof. Farzan Farnia](https://www.cse.cuhk.edu.hk/~farnia/). I also collaborate with [Prof. Amin Gohari](https://www.ie.cuhk.edu.hk/faculty/gohari-amin/).
+I am now a Ph.D. Candidate at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/chinese/index.html)), Department of Computer Science and Engineering from 2022, advised by [Prof. Farzan Farnia](https://www.cse.cuhk.edu.hk/~farnia/).
 
 I obtained my Bachelor's Degree in Mathematics and Information Engineering, a double-major program jointly offered by the Department of Mathematics and the Department of Information Engineering at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/chinese/index.html)), within the Honor Class [ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite). It's my pleasure to be kindly advised by [Prof. Chandra Nair](https://chandra.ie.cuhk.edu.hk/) and [Prof. Anthony MC So](https://www1.se.cuhk.edu.hk/~manchoso/).
 
