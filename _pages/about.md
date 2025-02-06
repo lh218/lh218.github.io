@@ -21,10 +21,12 @@ I am now a Ph.D. Candidate at The Chinese University of Hong Kong ([CUHK](https:
 
 I obtained my Bachelor's Degree in Mathematics and Information Engineering, a double-major program jointly offered by the Department of Mathematics and the Department of Information Engineering at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/chinese/index.html)), within the Honor Class [ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite). It's my pleasure to be kindly advised by [Prof. Chandra Nair](https://chandra.ie.cuhk.edu.hk/) and [Prof. Anthony MC So](https://www1.se.cuhk.edu.hk/~manchoso/).
 
-My research interests include **Trustworthy AI (Robustness, Fairness, and Interpretability)** and **Machine Learning Theory (Optimization Theory and Information Theory)**. I also seek relevant applications in LLMs and Multi-modal representation.
+My research interests include **Theory-based Trustworthy AI (Robustness, Fairness, and Interpretability)** and **Diffusion-based Generative Models for**. I seek relevant applications in Computer Vision, Decision Making, and Planning.
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉 Join Huawei Hong Kong Research Center, Theory Lab as a research intern!
+- *2025.01*: &nbsp;🎉 Our paper is accepted by ICLR 2025 (CORE Ranking: A+)!
 - *2024.07*: &nbsp;🎉 Join Huawei Noah's Ark Lab as a research intern!
 - *2024.04*: &nbsp;🎉 Our paper is accepted by UAI 2024 (CORE Ranking: A+)!
 - *2022.08*: &nbsp;🎉 Start the journey as a Ph.D. student at CSE, CUHK!
@@ -62,7 +64,8 @@ Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
 
 <span class='anchor' id='experiences'></span>
 # 💻 Experiences
-- *2024.07 - Now*: Research intern, Huawei Noah's Ark Lab, Decision Making & Reasoning Group, Shenzhen, China
+- *2025.02 - Now*: Research intern, Huawei Hong Kong Research Center, Theory Lab, Hong Kong SAR, China
+- *2024.07 - 2025.01*: Research intern, Huawei Noah's Ark Lab, Decision Making & Reasoning Group, Shenzhen, China
 - *2021.08 - 2022.04*: Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR
 - *2021.05 - 2021.08*：Research Assistant, advised by Prof. Eliza Mik, Department of Law, CUHK, Hong Kong SAR
 - *2020.08 - 2020.12*: Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR
