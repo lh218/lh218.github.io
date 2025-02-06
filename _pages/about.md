@@ -21,7 +21,7 @@ I am now a Ph.D. Candidate at The Chinese University of Hong Kong ([CUHK](https:
 
 I obtained my Bachelor's Degree in Mathematics and Information Engineering, a double-major program jointly offered by the Department of Mathematics and the Department of Information Engineering at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/chinese/index.html)), within the Honor Class [ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite). It's my pleasure to be kindly advised by [Prof. Chandra Nair](https://chandra.ie.cuhk.edu.hk/) and [Prof. Anthony MC So](https://www1.se.cuhk.edu.hk/~manchoso/).
 
-My research interests include **Theory-based Trustworthy AI (Robustness, Fairness, and Interpretability)** and **Diffusion-based Generative Models for**. I seek relevant applications in Computer Vision, Decision Making, and Planning.
+My research interests include **Theory-based Trustworthy AI (Robustness, Fairness, and Interpretability)** and **Diffusion-based Generative Models**. I seek relevant applications in Computer Vision, Decision Making, and Planning.
 
 
 # 🔥 News
