@@ -26,17 +26,42 @@ My research interests include **Theory-based Trustworthy AI (Robustness, Fairnes
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉 Join Huawei Hong Kong Research Center, Theory Lab as a research intern!
+- *2025.01*: &nbsp;🎉 Our paper is accepted by AAAI 2025 GenPlan Workshop (Spotlight)!
 - *2025.01*: &nbsp;🎉 Our paper is accepted by ICLR 2025 (CORE Ranking: A+)!
 - *2024.07*: &nbsp;🎉 Join Huawei Noah's Ark Lab as a research intern!
 - *2024.04*: &nbsp;🎉 Our paper is accepted by UAI 2024 (CORE Ranking: A+)!
 - *2022.08*: &nbsp;🎉 Start the journey as a Ph.D. student at CSE, CUHK!
-- *2021.05*: &nbsp;🎉 Our paper is accepted by ICASSP 2021 (CORE Ranking: B)!
+- *2021.05*: &nbsp;🎉 Our paper is accepted by ICASSP 2021!
 
 # 📖 Educations
 - *2022.08 - 2026.07 (now)*: Ph.D. Candidate in Computer Science and Engineering Department, CUHK, Hong Kong SAR. 
 - *2017.09 - 2022.07*: Bachelor of Science in Mathematics and Information Engineering (double major), CUHK, Hong Kong SAR. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UAI 2024</div><img src='images/UAI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*Boosting Generalization in Diffusion-Based Neural Combinatorial Solver via Energy-guided Sampling*
+
+**Haoyu Lei**, Kaiwen Zhou, Yinchuan Li, Zhitang Chen, Farzan Farnia 
+
+[**Paper**](https://arxiv.org/abs/2502.12188)/[**Code**]
+- We propose a general energy-guided sampling framework during inference time that enhances both the cross-scale and cross-problem generalization capabilities of diffusion-based NCO solvers without requiring additional training.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UAI 2024</div><img src='images/UAI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*Boosting the visual interpretability of CLIP via adversarial fine-tuning*
+
+Shizhan Gong, **Haoyu Lei**, Qi Dou, Farzan Farnia 
+
+[**Paper**](https://openreview.net/pdf?id=khuIvzxPRp)/[**Code**]
+- We propose an unsupervised adversarial fine-tuning (AFT) with norm-regularization to enhance the visual interpretability of CLIP. 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UAI 2024</div><img src='images/UAI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
