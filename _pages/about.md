@@ -39,7 +39,7 @@ My research interests include **Theory-based Trustworthy AI (Robustness, Fairnes
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UAI 2024</div><img src='images/UAI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAIW 2025 (Spotlight)</div><img src='images/AAAIW2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Boosting Generalization in Diffusion-Based Neural Combinatorial Solver via Energy-guided Sampling*
@@ -51,7 +51,7 @@ My research interests include **Theory-based Trustworthy AI (Robustness, Fairnes
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UAI 2024</div><img src='images/UAI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/ICLR2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Boosting the visual interpretability of CLIP via adversarial fine-tuning*
