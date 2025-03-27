@@ -39,6 +39,18 @@ My research interests include **Machine Learning Theory**, **Trustworthy AI (Rob
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICCV2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*pFedFair: Towards Optimal Group Fairness-Accuracy Trade-off in Heterogeneous Federated Learning*
+
+**Haoyu Lei**, Shizhan Gong, Qi Dou, Farzan Farnia 
+
+[**Paper**](https://arxiv.org/pdf/2503.14925)/[**Code**]
+- We Propose the pFedFair to address personalized federated learning under heterogeneous feature distribution, while applying image embeddings to improve the performance of group-fairness learning methods on computer vision datasets.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAIW 2025 (Spotlight)</div><img src='images/AAAIW2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
