@@ -25,11 +25,12 @@ My research interests include **Machine Learning Theory**, **Trustworthy AI (Rob
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉 Join **Huawei Hong Kong Research Center, Theory Lab** as a research intern!
+- *2025.07*: &nbsp;🎉 Our paper is accepted by **ACMMM 2025**!
+- *2025.06*: &nbsp;🎉 Join **Huawei Hong Kong Research Center, Theory Lab** as a research intern!
 - *2025.01*: &nbsp;🎉 Our paper is accepted by **AAAI 2025 GenPlan Workshop (Spotlight)**!
-- *2025.01*: &nbsp;🎉 Our paper is accepted by **ICLR 2025 (CORE Ranking: A+)**!
+- *2025.01*: &nbsp;🎉 Our paper is accepted by **ICLR 2025**!
 - *2024.07*: &nbsp;🎉 Join **Huawei Noah's Ark Lab** as a research intern!
-- *2024.04*: &nbsp;🎉 Our paper is accepted by **UAI 2024 (CORE Ranking: A+)**!
+- *2024.04*: &nbsp;🎉 Our paper is accepted by **UAI 2024**!
 - *2022.08*: &nbsp;🎉 Start the journey as a Ph.D. student at CSE, CUHK!
 - *2021.05*: &nbsp;🎉 Our paper is accepted by **ICASSP 2021**!
 
