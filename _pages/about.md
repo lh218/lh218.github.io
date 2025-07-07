@@ -102,7 +102,7 @@ Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
 
 <span class='anchor' id='experiences'></span>
 # 💻 Experiences
-- *2025.02 - Now*: Research intern, Huawei Hong Kong Research Center, Theory Lab, Hong Kong SAR, China
+- *2025.06 - Now*: Research intern, Huawei Hong Kong Research Center, Theory Lab, Hong Kong SAR, China
 - *2024.07 - 2025.01*: Research intern, Huawei Noah's Ark Lab, Decision Making & Reasoning Group, Shenzhen, China
 - *2021.08 - 2022.04*: Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR
 - *2021.05 - 2021.08*：Research Assistant, advised by Prof. Eliza Mik, Department of Law, CUHK, Hong Kong SAR
