@@ -126,6 +126,8 @@ Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
 
 <span class='anchor' id='teaching'></span>
 # 💬 Teaching
+- *2025-26 Fall*:   AIST3010/ESTR3114 Numerical Optimization (Undergraduate)
+- *2024-25 Spring*: CSCI5130 Game Theory (Postgraduate)
 - *2023-24 Spring*: CSCI5030 Machine Learning Theory (Postgraduate)
 - *2023-24 Fall*:   ENGG2760A Probability for Engineers (Undergraduate)
 - *2022-23 Spring*: ENGG1003SG Digital Literacy and Computational Thinking (Undergraduate)
