@@ -28,6 +28,7 @@ My research interests include **Machine Learning Theory**, **Trustworthy AI (Rob
 - *2025.09*: &nbsp;🎉 Two papers are accepted by **NeurIPS 2025**!
 - *2025.07*: &nbsp;🎉 Our paper is accepted by **ACMMM 2025**!
 - *2025.06*: &nbsp;🎉 Join **Huawei Hong Kong Research Center, Theory Lab** as a research intern!
+- *2025.06*: &nbsp;🎉 Honored to be selected as the Outstanding Intern in Noah's Ark Lab!
 - *2025.01*: &nbsp;🎉 Our paper is accepted by **AAAI 2025 GenPlan Workshop (Spotlight)**!
 - *2025.01*: &nbsp;🎉 Our paper is accepted by **ICLR 2025**!
 - *2024.07*: &nbsp;🎉 Join **Huawei Noah's Ark Lab** as a research intern!
@@ -37,7 +38,16 @@ My research interests include **Machine Learning Theory**, **Trustworthy AI (Rob
 
 # 📖 Educations
 - *2022.08 - 2026.07 (now)*: Ph.D. Candidate in Computer Science and Engineering Department, CUHK, Hong Kong SAR. 
-- *2017.09 - 2022.07*: Bachelor of Science in Mathematics and Information Engineering (double major), CUHK, Hong Kong SAR. 
+- *2017.09 - 2022.07*: Bachelor of Science in Mathematics and Information Engineering (double major), CUHK, Hong Kong SAR.
+
+<span class='anchor' id='experiences'></span>
+# 💻 Experiences
+- *2025.06 - Now*: Research intern, Huawei Hong Kong Research Center, Theory Lab, Hong Kong SAR, China
+- *2024.07 - 2025.01*: Research intern, Huawei Noah's Ark Lab, Decision Making & Reasoning Group, Shenzhen, China
+- *2021.08 - 2022.04*: Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR
+- *2021.05 - 2021.08*：Research Assistant, advised by Prof. Eliza Mik, Department of Law, CUHK, Hong Kong SAR
+- *2020.08 - 2020.12*: Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR
+- *2019.01 - 2019.03*: Financial Internship, Guotai Junan Securities, Hunan Changsha
 
 # 📝 Publications 
 
@@ -101,17 +111,9 @@ Xiaolu Wang, Chaorui Yao, **Haoyu Lei**, Anthony Man-Cho So
 </div>
 </div>
 
-<span class='anchor' id='experiences'></span>
-# 💻 Experiences
-- *2025.06 - Now*: Research intern, Huawei Hong Kong Research Center, Theory Lab, Hong Kong SAR, China
-- *2024.07 - 2025.01*: Research intern, Huawei Noah's Ark Lab, Decision Making & Reasoning Group, Shenzhen, China
-- *2021.08 - 2022.04*: Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR
-- *2021.05 - 2021.08*：Research Assistant, advised by Prof. Eliza Mik, Department of Law, CUHK, Hong Kong SAR
-- *2020.08 - 2020.12*: Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR
-- *2019.01 - 2019.03*: Financial Internship, Guotai Junan Securities, Hunan Changsha
-
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
+- *2025*: Huawei Noah's Ark Lab Outstanding Intern
 - *2022*: Postgraduate Studentship Scholarship Scheme
 - *2021*: Chung Chi College Departmental Prize **(Graduation Top 10%)**
 - *2019, 2021*: Dean's List **(Academic Year Top 10%)** 
