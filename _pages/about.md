@@ -25,6 +25,7 @@ My research interests include **Machine Learning Theory**, **Trustworthy AI (Rob
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉 Two papers are accepted by **NeurIPS 2025**!
 - *2025.07*: &nbsp;🎉 Our paper is accepted by **ACMMM 2025**!
 - *2025.06*: &nbsp;🎉 Join **Huawei Hong Kong Research Center, Theory Lab** as a research intern!
 - *2025.01*: &nbsp;🎉 Our paper is accepted by **AAAI 2025 GenPlan Workshop (Spotlight)**!
