@@ -52,19 +52,31 @@ My research interests include **Machine Learning Theory**, **Trustworthy AI (Rob
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICCV2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/AAAIW2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*pFedFair: Towards Optimal Group Fairness-Accuracy Trade-off in Heterogeneous Federated Learning*
+*Two-Steps Diffusion Policy for Robotic Manipulation via Genetic Denoising*
 
-**Haoyu Lei**, Shizhan Gong, Qi Dou, Farzan Farnia 
+Mohammad Jalali\*, **Haoyu Lei\***, Amin Gohari, Farzan Farnia (\*Equal Contribution)
 
-[**Paper**](https://arxiv.org/pdf/2503.14925)/[**Code**]
-- We Propose the pFedFair to address personalized federated learning under heterogeneous feature distribution, while applying image embeddings to improve the performance of group-fairness learning methods on computer vision datasets.
+[**Paper**](https://openreview.net/pdf?id=1YLpf8nUIq)/[**Code**](https://mjalali.github.io/SPARKE/)
+- We propose the Scalable Prompt-Aware Renyi Kernel Entropy Diversity Guidance (SPARKE) method to improve prompt-aware diversity in text-to-image diffusion models, allowing large-scale generation settings with linear inference computational overhead.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAIW 2025 (Spotlight)</div><img src='images/AAAIW2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/AAAIW2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*SPARKE: Scalable Prompt-Aware Diversity and Novelty Guidance in Diffusion Models via RKE Scores*
+
+Mohammad Jalali\*, **Haoyu Lei\***, Amin Gohari, Farzan Farnia (\*Equal Contribution)
+
+[**Paper**](https://openreview.net/pdf?id=1YLpf8nUIq)/[**Code**](https://mjalali.github.io/SPARKE/)
+- We propose the Scalable Prompt-Aware Renyi Kernel Entropy Diversity Guidance (SPARKE) method to improve prompt-aware diversity in text-to-image diffusion models, allowing large-scale generation settings with linear inference computational overhead.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/AAAIW2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Boosting Generalization in Diffusion-Based Neural Combinatorial Solver via Energy-guided Sampling*
@@ -73,6 +85,30 @@ My research interests include **Machine Learning Theory**, **Trustworthy AI (Rob
 
 [**Paper**](https://arxiv.org/abs/2502.12188)/[**Code**]
 - We propose a general energy-guided sampling framework during inference time that enhances both the cross-scale and cross-problem generalization capabilities of diffusion-based NCO solvers without requiring additional training.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/AAAIW2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*MESH - Understanding Videos Like Human: Measuring Hallucinations in Large Video Models*
+
+Garry Yang, Zizhe Chen, Man Hon Wong, **Haoyu Lei**, Yongqiang Chen, Zhenguo Li, Kaiwen Zhou, James Cheng 
+
+[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3746027.3755626)/[**Code**]
+- We introduce MESH, a benchmark designed to evaluate hallucinations in LVMs systematically. MESH uses a Question-Answering framework with binary and multi-choice formats, incorporating target and trap instances.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ICCV2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*pFedFair: Towards Optimal Group Fairness-Accuracy Trade-off in Heterogeneous Federated Learning*
+
+**Haoyu Lei**, Shizhan Gong, Qi Dou, Farzan Farnia 
+
+[**Paper**](https://arxiv.org/pdf/2503.14925)/[**Code**]
+- We propose the pFedFair to address personalized federated learning under heterogeneous feature distribution, while applying image embeddings to improve the performance of group-fairness learning methods on computer vision datasets.
 </div>
 </div>
 
