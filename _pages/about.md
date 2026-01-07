@@ -107,7 +107,7 @@ Mateo Clemente, Leo Brunswic, Rui Heng Yang, Xuan Zhao, Yasser Khalil, **Haoyu L
 
 Garry Yang, Zizhe Chen, Man Hon Wong, **Haoyu Lei**, Yongqiang Chen, Zhenguo Li, Kaiwen Zhou, James Cheng 
 
-[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3746027.3755626)/[**Code**]
+[**Paper**](https://dl.acm.org/doi/pdf/10.1145/3746027.3755626)/[**Code**](https://github.com/HCYANG2000/MESH-Benchmark)
 - We introduce MESH, a benchmark designed to evaluate hallucinations in LVMs systematically. MESH uses a Question-Answering framework with binary and multi-choice formats, incorporating target and trap instances.
 </div>
 </div>
@@ -119,7 +119,7 @@ Garry Yang, Zizhe Chen, Man Hon Wong, **Haoyu Lei**, Yongqiang Chen, Zhenguo Li,
 
 **Haoyu Lei**, Shizhan Gong, Qi Dou, Farzan Farnia 
 
-[**Paper**](https://arxiv.org/pdf/2503.14925)/[**Code**]
+[**Paper**](https://arxiv.org/pdf/2503.14925)/[**Code**](https://github.com/peterant330/CLIP_AFT)
 - We propose the pFedFair to address personalized federated learning under heterogeneous feature distribution, while applying image embeddings to improve the performance of group-fairness learning methods on computer vision datasets.
 </div>
 </div>
