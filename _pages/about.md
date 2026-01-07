@@ -52,15 +52,15 @@ My research interests include **Diffusion-based Generative Models**, **Machine L
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/AAAIW2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 ML4Wireless</div><img src='images/AAAIW2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Two-Steps Diffusion Policy for Robotic Manipulation via Genetic Denoising*
+*Consistency Flow Model Achieves One-step Denoising Error Correction Codes*
 
-Mohammad Jalali\*, **Haoyu Lei\***, Amin Gohari, Farzan Farnia (\*Equal Contribution)
+**Haoyu Lei**, Chin Wa Lau, Kaiwen Zhou, Nian Guo, Farzan Farnia
 
-[**Paper**](https://openreview.net/pdf?id=1YLpf8nUIq)/[**Code**](https://mjalali.github.io/SPARKE/)
-- We propose the Scalable Prompt-Aware Renyi Kernel Entropy Diversity Guidance (SPARKE) method to improve prompt-aware diversity in text-to-image diffusion models, allowing large-scale generation settings with linear inference computational overhead.
+[**Paper**](https://arxiv.org/pdf/2512.01389)/[**Code**]
+- We propose a highly-efficient 1-NFE consistency flow model for decoding tasks in Error Correction Codes with superior performance.
 </div>
 </div>
 
@@ -73,6 +73,18 @@ Mohammad Jalali\*, **Haoyu Lei\***, Amin Gohari, Farzan Farnia (\*Equal Contribu
 
 [**Paper**](https://openreview.net/pdf?id=1YLpf8nUIq)/[**Code**](https://mjalali.github.io/SPARKE/)
 - We propose the Scalable Prompt-Aware Renyi Kernel Entropy Diversity Guidance (SPARKE) method to improve prompt-aware diversity in text-to-image diffusion models, allowing large-scale generation settings with linear inference computational overhead.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/AAAIW2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*Two-Steps Diffusion Policy for Robotic Manipulation via Genetic Denoising*
+
+Mateo Clemente, Leo Brunswic, Rui Heng Yang, Xuan Zhao, Yasser Khalil, **Haoyu Lei**, Amir Rasouli, Yinchuan Li
+
+[**Paper**](https://arxiv.org/pdf/2510.21991)/[**Code**]
+- We propose an efficient two-step sampling strategy for diffusion policy models for robotic manipulation satisfying physical constraints.
 </div>
 </div>
 
