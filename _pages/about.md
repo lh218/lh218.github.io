@@ -52,7 +52,7 @@ My research interests include **Diffusion-based Generative Models**, **Machine L
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 ML4Wireless</div><img src='images/AAAIW2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 ML4Wireless</div><img src='images/ECCM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Consistency Flow Model Achieves One-step Denoising Error Correction Codes*
@@ -64,7 +64,7 @@ My research interests include **Diffusion-based Generative Models**, **Machine L
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/AAAIW2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/NIPS25_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *SPARKE: Scalable Prompt-Aware Diversity and Novelty Guidance in Diffusion Models via RKE Scores*
@@ -76,7 +76,7 @@ Mohammad Jalali\*, **Haoyu Lei\***, Amin Gohari, Farzan Farnia (\*Equal Contribu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/AAAIW2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/NIPS25_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Two-Steps Diffusion Policy for Robotic Manipulation via Genetic Denoising*
@@ -88,10 +88,10 @@ Mateo Clemente, Leo Brunswic, Rui Heng Yang, Xuan Zhao, Yasser Khalil, **Haoyu L
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/AAAIW2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/AAAI26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Boosting Generalization in Diffusion-Based Neural Combinatorial Solver via Energy-guided Sampling*
+*Boosting Generalization in Diffusion-Based Neural Combinatorial Solver via Inference Time Adaptation*
 
 **Haoyu Lei**, Kaiwen Zhou, Yinchuan Li, Zhitang Chen, Farzan Farnia 
 
@@ -100,7 +100,7 @@ Mateo Clemente, Leo Brunswic, Rui Heng Yang, Xuan Zhao, Yasser Khalil, **Haoyu L
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/AAAIW2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/ACMMM25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *MESH - Understanding Videos Like Human: Measuring Hallucinations in Large Video Models*
