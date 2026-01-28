@@ -25,6 +25,7 @@ My research interests include **Diffusion-based Generative Models**, **Machine L
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉 Our paper is honored to be selected by **AAAI 2026 ML4Wireless Best Paper Award**!
 - *2025.11*: &nbsp;🎉 Two papers are accepted by **AAAI 2026 & AAAI 2026 ML4Wireless**!
 - *2025.09*: &nbsp;🎉 Two papers are accepted by **NeurIPS 2025**!
 - *2025.07*: &nbsp;🎉 Our paper is accepted by **ACMMM 2025**!
@@ -52,7 +53,7 @@ My research interests include **Diffusion-based Generative Models**, **Machine L
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 ML4Wireless</div><img src='images/ECCM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 ML4Wireless (Best Paper Award)</div><img src='images/ECCM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Consistency Flow Model Achieves One-step Denoising Error Correction Codes*
