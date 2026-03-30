@@ -25,6 +25,7 @@ My research interests include **Diffusion-based Generative Models**, **Machine L
 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉 Our paper is accepted by **ISIT 2026**!
 - *2026.01*: &nbsp;🎉 Our paper is honored to be selected by **AAAI 2026 ML4Wireless Best Paper Award**!
 - *2025.11*: &nbsp;🎉 Two papers are accepted by **AAAI 2026 & AAAI 2026 ML4Wireless**!
 - *2025.09*: &nbsp;🎉 Two papers are accepted by **NeurIPS 2025**!
@@ -44,7 +45,7 @@ My research interests include **Diffusion-based Generative Models**, **Machine L
 
 <span class='anchor' id='experiences'></span>
 # 💻 Experiences
-- *2025.06 - Now*: Research intern, Huawei Hong Kong Research Center, Theory Lab, Hong Kong SAR, China
+- *2025.06 - 2026.01*: Research intern, Huawei Hong Kong Research Center, Theory Lab, Hong Kong SAR, China
 - *2024.07 - 2025.01*: Research intern, Huawei Noah's Ark Lab, Decision Making & Reasoning Group, Shenzhen, China
 - *2021.08 - 2022.04*: Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR
 - *2021.05 - 2021.08*：Research Assistant, advised by Prof. Eliza Mik, Department of Law, CUHK, Hong Kong SAR
@@ -56,7 +57,7 @@ My research interests include **Diffusion-based Generative Models**, **Machine L
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 ML4Wireless (Best Paper Award)</div><img src='images/ECCM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Consistency Flow Model Achieves One-step Denoising Error Correction Codes*
+*Syndrome-Flow Consistency Model Achieves One-step Denoising Error Correction Codes*
 
 **Haoyu Lei**, Chin Wa Lau, Kaiwen Zhou, Nian Guo, Farzan Farnia
 
