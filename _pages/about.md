@@ -17,11 +17,11 @@ redirect_from:
 
 # <span class='anchor' id='about-me'></span>
 
-I am now a Ph.D. Candidate at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/chinese/index.html)), Department of Computer Science and Engineering from 2022, advised by [Prof. Farzan Farnia](https://www.cse.cuhk.edu.hk/~farnia/).
+I am now a Ph.D. Candidate at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/chinese/index.html)), Department of Computer Science and Engineering from 2022, advised by [Prof. Farzan Farnia](https://www.cse.cuhk.edu.hk/~farnia/). My research interests include **Diffusion-based Generative Models**, **Machine Learning Theory**, **Trustworthy AI (Robustness, Fairness, and Interpretability)**.
 
 I obtained my Bachelor's Degree in Mathematics and Information Engineering, a double-major program jointly offered by the Department of Mathematics and the Department of Information Engineering at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/chinese/index.html)), within the Honor Class [ELITE Stream](https://www.erg.cuhk.edu.hk/erg/Elite). It's my pleasure to be kindly advised by [Prof. Chandra Nair](https://chandra.ie.cuhk.edu.hk/) and [Prof. Anthony MC So](https://www1.se.cuhk.edu.hk/~manchoso/).
 
-My research interests include **Diffusion-based Generative Models**, **Machine Learning Theory**, **Trustworthy AI (Robustness, Fairness, and Interpretability)**. I seek relevant applications in Computer Vision, Decision Making, and Planning.
+I am expected to graduate in July 2026, after which I will join HUAWEI's Intelligent Automotive Solution (IAS) BU, Autonomous Driving Solution (ADS) Department. My research will focus on generative world action models within the realms of embodied AI and autonomous driving.
 
 
 # 🔥 News
