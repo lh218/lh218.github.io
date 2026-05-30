@@ -25,6 +25,7 @@ I obtained my Bachelor's Degree in Mathematics and Information Engineering, a do
 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉 Our paper is accepted by **ICML 2026**!
 - *2026.03*: &nbsp;🎉 Our paper is accepted by **ISIT 2026**!
 - *2026.01*: &nbsp;🎉 Our paper is honored to be selected by **AAAI 2026 ML4Wireless Best Paper Award**!
 - *2025.11*: &nbsp;🎉 Two papers are accepted by **AAAI 2026 & AAAI 2026 ML4Wireless**!
