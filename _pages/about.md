@@ -55,6 +55,30 @@ I obtained my Bachelor's Degree in Mathematics and Information Engineering, a do
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISIT 2026)</div><img src='images/ICML.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*Exploring More to Solve More: Boosting Diversity in Text Diffusion Models via Entropy-Based Guidance*
+
+Jingwei Zhang, **Haoyu Lei**, Zijin Feng, Jiacheng Sun, Farzan Farnia 
+
+[**Paper**](https://arxiv.org/pdf/2512.01389)/[**Code**]
+- We propose a training-free Semantic-Aware Kernel Entropy (SAKE) guidance method for diffusion LLMs to enhance the reasoning ability.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISIT 2026)</div><img src='images/ISIT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*On the Fragility of AI-Based Channel Decoders under Small Channel Perturbations*
+
+**Haoyu Lei\***, Mohammad Jalali\*, Chin Wa Lau, Farzan Farnia
+
+[**Paper**](https://arxiv.org/pdf/2512.01389)/[**Code**]
+- We theoretically and numerically study the lens of robustness to distributional shifts at the channel output.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 ML4Wireless (Best Paper Award)</div><img src='images/ECCM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
