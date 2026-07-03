@@ -55,7 +55,7 @@ I obtained my Bachelor's Degree in Mathematics and Information Engineering, a do
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISIT 2026)</div><img src='images/ICML.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026)</div><img src='images/ICML.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Exploring More to Solve More: Boosting Diversity in Text Diffusion Models via Entropy-Based Guidance*
