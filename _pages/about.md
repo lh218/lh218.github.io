@@ -25,6 +25,7 @@ I obtained my Bachelor's Degree in Mathematics and Information Engineering, a do
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉 I am honored to have graduated with a Ph.D. from the Department of Computer Science and Engineering at CUHK!
 - *2026.03*: &nbsp;🎉 Our paper is accepted by **ICML 2026**!
 - *2026.03*: &nbsp;🎉 Our paper is accepted by **ISIT 2026**!
 - *2026.01*: &nbsp;🎉 Our paper is honored to be selected by **AAAI 2026 ML4Wireless Best Paper Award**!
@@ -41,7 +42,7 @@ I obtained my Bachelor's Degree in Mathematics and Information Engineering, a do
 - *2021.05*: &nbsp;🎉 Our paper is accepted by **ICASSP 2021**!
 
 # 📖 Educations
-- *2022.08 - 2026.07 (now)*: Ph.D. Candidate in Computer Science and Engineering Department, CUHK, Hong Kong SAR. 
+- *2022.08 - 2026.07*: Ph.D. in Computer Science and Engineering Department, CUHK, Hong Kong SAR. 
 - *2017.09 - 2022.07*: Bachelor of Science in Mathematics and Information Engineering (double major), CUHK, Hong Kong SAR.
 
 <span class='anchor' id='experiences'></span>
