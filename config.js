@@ -7,7 +7,7 @@ const USER_CONFIG = {
   "organization": "Huawei · Intelligent Automotive Solution (IAS) BU",
   "email": "hylei22@cse.cuhk.edu.hk",
   "location": "Hong Kong SAR, China",
-  "photo": "images/IMG_0002.png",
+  "photo": "images/figure.png",
   "description": "Haoyu Lei — generative world models, embodied AI, autonomous driving, and trustworthy machine learning.",
   "bio": [
     "I have joined Huawei’s Intelligent Automotive Solution (IAS) BU, Autonomous Driving Solution (ADS) Department. My research focuses on generative world foundation models for embodied AI and autonomous driving.",
