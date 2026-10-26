@@ -3,14 +3,14 @@ const USER_CONFIG = {
   "name": "Haoyu Lei",
   "chineseName": "雷浩瑀",
   "initials": "HL",
-  "role": "Autonomous Driving Solution (ADS) Department",
-  "organization": "Huawei · Intelligent Automotive Solution (IAS) BU",
-  "email": "hylei22@cse.cuhk.edu.hk",
-  "location": "Hong Kong SAR, China",
+  "role": "Autonomous Driving Solution (ADS) Research",
+  "organization": "HUAWEI · Intelligent Automotive Solution (IAS) BU",
+  "email": "leihaoyu@yinwang.com",
+  "location": "Shenzhen, China",
   "photo": "images/figure.png",
-  "description": "Haoyu Lei — generative world models, embodied AI, autonomous driving, and trustworthy machine learning.",
+  "description": "Haoyu Lei — Generative Models, Embodied AI, Autonomous Driving, and World Models.",
   "bio": [
-    "I have joined Huawei’s Intelligent Automotive Solution (IAS) BU, Autonomous Driving Solution (ADS) Department. My research focuses on generative world foundation models for embodied AI and autonomous driving.",
+    "I have joined HUAWEI’s Intelligent Automotive Solution (IAS) BU, Autonomous Driving Solution (ADS) Research Department. My research focuses on Physical AI Foundation Models for embodied AI and autonomous driving.",
     "I received my Ph.D. in Computer Science and Engineering from The Chinese University of Hong Kong (CUHK) in July 2026, advised by Prof. Farzan Farnia. My research interests include diffusion-based generative models, machine learning theory, and trustworthy AI (robustness, fairness, and interpretability).",
     "I received my B.Sc. in Mathematics and Information Engineering, a double-major program at CUHK, as part of the ELITE Stream. I was fortunate to be advised by Prof. Chandra Nair and Prof. Anthony Man-Cho So."
   ],
@@ -94,46 +94,11 @@ const USER_CONFIG = {
     },
     {
       "year": 2025,
-      "title": "Two-Steps Diffusion Policy for Robotic Manipulation via Genetic Denoising",
-      "authors": "Mateo Clemente, Leo Brunswic, Rui Heng Yang, Xuan Zhao, Yasser Khalil, Haoyu Lei, Amir Rasouli, Yinchuan Li",
-      "venue": "NeurIPS 2025",
-      "links": {
-        "paper": "https://arxiv.org/pdf/2510.21991"
-      },
-      "image": "images/NIPS25_1.png",
-      "abstract": "We propose an efficient two-step sampling strategy for diffusion policy models for robotic manipulation satisfying physical constraints."
-    },
-    {
-      "year": 2025,
-      "title": "MESH - Understanding Videos Like Human: Measuring Hallucinations in Large Video Models",
-      "authors": "Garry Yang, Zizhe Chen, Man Hon Wong, Haoyu Lei, Yongqiang Chen, Zhenguo Li, Kaiwen Zhou, James Cheng",
-      "venue": "ACMMM 2025",
-      "links": {
-        "paper": "https://dl.acm.org/doi/pdf/10.1145/3746027.3755626",
-        "code": "https://github.com/HCYANG2000/MESH-Benchmark"
-      },
-      "image": "images/ACMMM25.png",
-      "abstract": "We introduce MESH, a benchmark designed to evaluate hallucinations in LVMs systematically. MESH uses a Question-Answering framework with binary and multi-choice formats, incorporating target and trap instances."
-    },
-    {
-      "year": 2025,
-      "title": "pFedFair: Towards Optimal Group Fairness-Accuracy Trade-off in Heterogeneous Federated Learning",
-      "authors": "Haoyu Lei, Shizhan Gong, Qi Dou, Farzan Farnia",
-      "venue": "Preprint",
-      "links": {
-        "paper": "https://arxiv.org/pdf/2503.14925"
-      },
-      "image": "images/ICCV2025.png",
-      "abstract": "We propose the pFedFair to address personalized federated learning under heterogeneous feature distribution, while applying image embeddings to improve the performance of group-fairness learning methods on computer vision datasets."
-    },
-    {
-      "year": 2025,
       "title": "Boosting the visual interpretability of CLIP via adversarial fine-tuning",
       "authors": "Shizhan Gong, Haoyu Lei, Qi Dou, Farzan Farnia",
       "venue": "ICLR 2025",
       "links": {
         "paper": "https://openreview.net/pdf?id=khuIvzxPRp",
-        "code": "https://github.com/peterant330/CLIP_AFT"
       },
       "image": "images/ICLR2025.png",
       "abstract": "We propose an unsupervised adversarial fine-tuning (AFT) with norm-regularization to enhance the visual interpretability of CLIP."
@@ -145,24 +110,16 @@ const USER_CONFIG = {
       "venue": "UAI 2024",
       "links": {
         "paper": "https://openreview.net/pdf?id=r1t2m5IDVV",
-        "code": "https://github.com/lh218/Fairness-IB"
       },
       "image": "images/UAI2024.png",
       "abstract": "We theoretically show that Inductive Biases widely exist in DP-based fair supervised learning algorithms, and further propose a distributionally robust optimization framework to mitigate the biases."
     },
-    {
-      "year": 2021,
-      "title": "An Efficient Alternating Direction Method For Graph Learning From Smooth Signals",
-      "authors": "Xiaolu Wang, Chaorui Yao, Haoyu Lei, Anthony Man-Cho So",
-      "venue": "ICASSP 2021",
-      "links": {
-        "paper": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9414791"
-      },
-      "image": "images/ICASSP2021.png",
-      "abstract": "We cast the graph learning formulation as a nonsmooth, strictly convex optimization problem and develop an efficient alternating direction method of multipliers (ADMM) to solve it."
-    }
   ],
   "news": [
+      {
+      "date": "2026.10",
+      "text": "I have joined HUAWEI's IAS BU, ADS Research Department!"
+    },
     {
       "date": "2026.07",
       "text": "I am honored to have graduated with a Ph.D. from the Department of Computer Science and Engineering at CUHK!"
