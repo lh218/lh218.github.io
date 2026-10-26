@@ -17,7 +17,6 @@ const USER_CONFIG = {
   "invitation": "Feel free to email me about internships or research collaborations.",
   "links": {
     "Google Scholar": "https://scholar.google.com/citations?user=yLhxa_cAAAAJ&hl=en",
-    "GitHub": "https://github.com/lh218",
     "LinkedIn": "https://www.linkedin.com/in/haoyu-lei-629053206/",
     "CV": "assets/cv.pdf"
   },
@@ -26,7 +25,6 @@ const USER_CONFIG = {
     "Farzan Farnia": "https://www.cse.cuhk.edu.hk/~farnia/",
     "Chandra Nair": "https://chandra.ie.cuhk.edu.hk/",
     "Anthony Man-Cho So": "https://www1.se.cuhk.edu.hk/~manchoso/",
-    "ELITE Stream": "https://www.erg.cuhk.edu.hk/erg/Elite"
   },
   "interests": [
     "Generative World Models",
