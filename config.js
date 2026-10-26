@@ -7,7 +7,7 @@ const USER_CONFIG = {
   "organization": "HUAWEI · Intelligent Automotive Solution (IAS) BU",
   "email": "leihaoyu@yinwang.com",
   "location": "Shenzhen, China",
-  "photo": "images/figure.png",
+  "photo": "images/figure.jpg",
   "description": "Haoyu Lei — Generative Models, Embodied AI, Autonomous Driving, and World Models.",
   "bio": [
     "I have joined HUAWEI’s Intelligent Automotive Solution (IAS) BU, Autonomous Driving Solution (ADS) Research Department. My research focuses on Physical AI Foundation Models for embodied AI and autonomous driving.",
