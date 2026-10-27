@@ -10,9 +10,9 @@ const USER_CONFIG = {
   "photo": "images/figure.jpg",
   "description": "Haoyu Lei — Generative Models, Embodied AI, Autonomous Driving, and World Models.",
   "bio": [
-    "I have joined **HUAWEI’s Intelligent Automotive Solution (IAS) BU, Autonomous Driving Solution (ADS) Research Department**. My research focuses on **Physical AI Foundation Models for embodied AI and autonomous driving**.",
-    "I received **my Ph.D. in Computer Science and Engineering from The Chinese University of Hong Kong (CUHK)** in July 2026, advised by Prof. Farzan Farnia. My research interests include diffusion-based generative models, machine learning theory, and trustworthy AI (robustness, fairness, and interpretability).",
-    "I received **my B.Sc. in Mathematics and Information Engineering, a double-major program at CUHK**, as part of the ELITE Stream. I was fortunate to be advised by Prof. Chandra Nair and Prof. Anthony Man-Cho So."
+    "I have joined HUAWEI’s Intelligent Automotive Solution (IAS) BU, Autonomous Driving Solution (ADS) Research Department at 2026.10. My research focuses on **Physical AI Foundation Models for embodied AI and autonomous driving**.",
+    "I received my **Ph.D. in Computer Science and Engineering from The Chinese University of Hong Kong (CUHK)** in July 2026, advised by Prof. Farzan Farnia. My research interests include diffusion-based generative models, machine learning theory, and trustworthy AI (Robustness, Fairness, and Interpretability).",
+    "I received my **B.Sc. in Mathematics and Information Engineering, a double-major program at CUHK**, as part of the ELITE Stream. I was fortunate to be advised by Prof. Chandra Nair and Prof. Anthony Man-Cho So."
   ],
   "invitation": "Feel free to email me about internships or research collaborations!",
   "links": {
@@ -27,7 +27,7 @@ const USER_CONFIG = {
     "Anthony Man-Cho So": "https://www1.se.cuhk.edu.hk/~manchoso/"
   },
   "interests": [
-    "Generative World Models",
+    "World Models",
     "Embodied AI & Autonomous Driving",
     "Diffusion Models",
     "Machine Learning Theory",
@@ -232,7 +232,7 @@ const USER_CONFIG = {
       "text": "Chung Chi College Departmental Prize (Graduation Top 10%)"
     },
     {
-      "period": "2019, 2021",
+      "period": "2019 - 2021",
       "text": "Dean's List (Academic Year Top 10%)"
     },
     {
@@ -242,10 +242,6 @@ const USER_CONFIG = {
     {
       "period": "2019 - 2021",
       "text": "ELITE Stream Scholarship"
-    },
-    {
-      "period": "2017",
-      "text": "Top 0.15% in Hunan Province's Gaokao (University Entrance Exam)"
     }
   ],
   "teaching": [
@@ -280,25 +276,7 @@ const USER_CONFIG = {
   ],
   "academicService": [
     {
-      "text": "ICML Reviewer"
-    },
-    {
-      "text": "NeurIPS Reviewer"
-    },
-    {
-      "text": "ICLR Reviewer"
-    },
-    {
-      "text": "AAAI Reviewer"
-    },
-    {
-      "text": "UAI Reviewer"
-    },
-    {
-      "text": "TMLR Reviewer"
-    },
-    {
-      "text": "ISIT Reviewer"
+      "text": "ICML Golden Reviewer, ICML, NeurIPS, ICLR, AAAI, UAI, TMLR, ISIT Reviewer"
     }
   ]
 };
