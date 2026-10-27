@@ -280,24 +280,25 @@ const USER_CONFIG = {
   ],
   "academicService": [
     {
-      "period": "",
-      "text": ""
+      "text": "ICML Reviewer"
     },
     {
-      "period": "",
-      "text": ""
+      "text": "NeurIPS Reviewer"
     },
     {
-      "period": "",
-      "text": ""
+      "text": "ICLR Reviewer"
     },
     {
-      "period": "",
-      "text": ""
+      "text": "AAAI Reviewer"
     },
     {
-      "period": "",
-      "text": ""
+      "text": "UAI Reviewer"
+    },
+    {
+      "text": "TMLR Reviewer"
+    },
+    {
+      "text": "ISIT Reviewer"
     }
   ]
 };
