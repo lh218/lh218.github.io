@@ -181,40 +181,40 @@ const USER_CONFIG = {
   ],
   "education": [
     {
-      "period": "2022.08 - 2026.07",
-      "text": "Ph.D. in Computer Science and Engineering Department, CUHK, Hong Kong SAR.",
+      "period": "2022.08 - 2026.07  Hong Kong SAR",
+      "text": "Ph.D. in Computer Science and Engineering Department, CUHK",
       "icon": "images/cuhk-logo.png",
       "iconAlt": "CUHK logo"
     },
     {
-      "period": "2017.09 - 2022.07",
-      "text": "Bachelor of Science in Mathematics and Information Engineering (double major), CUHK, Hong Kong SAR.",
+      "period": "2017.09 - 2022.07  Hong Kong SAR",
+      "text": "Bachelor of Science in Mathematics and Information Engineering (double major), CUHK",
       "icon": "images/cuhk-logo.png",
       "iconAlt": "CUHK logo"
     }
   ],
   "experience": [
     {
-      "period": "2025.06 - 2026.01",
-      "text": "Research intern, Huawei Hong Kong Research Center, Theory Lab, Hong Kong SAR, China",
+      "period": "2025.06 - 2026.01  Hong Kong SAR",
+      "text": "Research intern, Huawei Hong Kong Research Center, Theory Lab",
       "icon": "images/huawei-logo.png",
       "iconAlt": "HUAWEI logo"
     },
     {
-      "period": "2024.07 - 2025.01",
-      "text": "Research intern, Huawei Noah's Ark Lab, Decision Making & Reasoning Group, Shenzhen, China",
+      "period": "2024.07 - 2025.01  Shenzhen, China",
+      "text": "Research intern, Huawei Noah's Ark Lab, Decision Making & Reasoning Group",
       "icon": "images/huawei-logo.png",
       "iconAlt": "HUAWEI logo"
     },
     {
-      "period": "2021.08 - 2022.04",
-      "text": "Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR",
+      "period": "2021.08 - 2022.04  Hong Kong SAR",
+      "text": "Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK",
       "icon": "images/cuhk-logo.png",
       "iconAlt": "CUHK logo"
     },
     {
-      "period": "2020.08 - 2020.12",
-      "text": "Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR",
+      "period": "2020.08 - 2020.12  Hong Kong SAR",
+      "text": "Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK",
       "icon": "images/cuhk-logo.png",
       "iconAlt": "CUHK logo"
     }
