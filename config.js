@@ -3,18 +3,18 @@ const USER_CONFIG = {
   "name": "Haoyu Lei",
   "chineseName": "雷浩瑀",
   "initials": "HL",
-  "role": "Autonomous Driving Solution (ADS) Research",
-  "organization": "HUAWEI · Intelligent Automotive Solution (IAS) BU",
+  "role": "**Autonomous Driving Solution (ADS) Research**",
+  "organization": "**HUAWEI · Intelligent Automotive Solution (IAS) BU**",
   "email": "leihaoyu@yinwang.com",
   "location": "Shenzhen, China",
   "photo": "images/figure.jpg",
   "description": "Haoyu Lei — Generative Models, Embodied AI, Autonomous Driving, and World Models.",
   "bio": [
-    "I have joined HUAWEI’s Intelligent Automotive Solution (IAS) BU, Autonomous Driving Solution (ADS) Research Department. My research focuses on Physical AI Foundation Models for embodied AI and autonomous driving.",
-    "I received my Ph.D. in Computer Science and Engineering from The Chinese University of Hong Kong (CUHK) in July 2026, advised by Prof. Farzan Farnia. My research interests include diffusion-based generative models, machine learning theory, and trustworthy AI (robustness, fairness, and interpretability).",
-    "I received my B.Sc. in Mathematics and Information Engineering, a double-major program at CUHK, as part of the ELITE Stream. I was fortunate to be advised by Prof. Chandra Nair and Prof. Anthony Man-Cho So."
+    "I have joined **HUAWEI’s Intelligent Automotive Solution (IAS) BU, Autonomous Driving Solution (ADS) Research Department**. My research focuses on **Physical AI Foundation Models for embodied AI and autonomous driving**.",
+    "I received **my Ph.D. in Computer Science and Engineering from The Chinese University of Hong Kong (CUHK)** in July 2026, advised by Prof. Farzan Farnia. My research interests include diffusion-based generative models, machine learning theory, and trustworthy AI (robustness, fairness, and interpretability).",
+    "I received **my B.Sc. in Mathematics and Information Engineering, a double-major program at CUHK**, as part of the ELITE Stream. I was fortunate to be advised by Prof. Chandra Nair and Prof. Anthony Man-Cho So."
   ],
-  "invitation": "Feel free to email me about internships or research collaborations.",
+  "invitation": "Feel free to email me about internships or research collaborations!",
   "links": {
     "Google Scholar": "https://scholar.google.com/citations?user=yLhxa_cAAAAJ&hl=en",
     "LinkedIn": "https://www.linkedin.com/in/haoyu-lei-629053206/",
@@ -84,8 +84,7 @@ const USER_CONFIG = {
       "authors": "Mohammad Jalali*, Haoyu Lei*, Amin Gohari, Farzan Farnia (*Equal Contribution)",
       "venue": "NeurIPS 2025",
       "links": {
-        "paper": "https://openreview.net/pdf?id=1YLpf8nUIq",
-        "code": "https://mjalali.github.io/SPARKE/"
+        "paper": "https://openreview.net/pdf?id=1YLpf8nUIq"
       },
       "image": "images/NIPS25_2.png",
       "abstract": "We propose the Scalable Prompt-Aware Renyi Kernel Entropy Diversity Guidance (SPARKE) method to improve prompt-aware diversity in text-to-image diffusion models, allowing large-scale generation settings with linear inference computational overhead."
@@ -183,52 +182,40 @@ const USER_CONFIG = {
     {
       "period": "2022.08 - 2026.07",
       "text": "Ph.D. in Computer Science and Engineering Department, CUHK, Hong Kong SAR.",
-      "icon": "",
-      "iconAlt": ""
+      "icon": "images/cuhk-logo.png",
+      "iconAlt": "CUHK logo"
     },
     {
       "period": "2017.09 - 2022.07",
       "text": "Bachelor of Science in Mathematics and Information Engineering (double major), CUHK, Hong Kong SAR.",
-      "icon": "",
-      "iconAlt": ""
+      "icon": "images/cuhk-logo.png",
+      "iconAlt": "CUHK logo"
     }
   ],
   "experience": [
     {
       "period": "2025.06 - 2026.01",
       "text": "Research intern, Huawei Hong Kong Research Center, Theory Lab, Hong Kong SAR, China",
-      "icon": "",
-      "iconAlt": ""
+      "icon": "images/huawei-logo.png",
+      "iconAlt": "HUAWEI logo"
     },
     {
       "period": "2024.07 - 2025.01",
       "text": "Research intern, Huawei Noah's Ark Lab, Decision Making & Reasoning Group, Shenzhen, China",
-      "icon": "",
-      "iconAlt": ""
+      "icon": "images/huawei-logo.png",
+      "iconAlt": "HUAWEI logo"
     },
     {
       "period": "2021.08 - 2022.04",
       "text": "Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR",
-      "icon": "",
-      "iconAlt": ""
-    },
-    {
-      "period": "2021.05 - 2021.08",
-      "text": "Research Assistant, advised by Prof. Eliza Mik, Department of Law, CUHK, Hong Kong SAR",
-      "icon": "",
-      "iconAlt": ""
+      "icon": "images/cuhk-logo.png",
+      "iconAlt": "CUHK logo"
     },
     {
       "period": "2020.08 - 2020.12",
       "text": "Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR",
-      "icon": "",
-      "iconAlt": ""
-    },
-    {
-      "period": "2019.01 - 2019.03",
-      "text": "Financial Internship, Guotai Junan Securities, Hunan Changsha",
-      "icon": "",
-      "iconAlt": ""
+      "icon": "images/cuhk-logo.png",
+      "iconAlt": "CUHK logo"
     }
   ],
   "awards": [
@@ -289,7 +276,7 @@ const USER_CONFIG = {
   ],
   "skills": [
     "Languages: English (Advanced), Cantonese (Intermediate), Putonghua (Native)",
-    "Programming Skills: Python (Main), Pytorch (Main), Matlab, R, C, C++, C#, Julia, LaTeX"
+    "Programming Skills: Python (Main), Pytorch (Main), Matlab, R, C, C++, C#, LaTeX"
   ],
   "academicService": [
     {
