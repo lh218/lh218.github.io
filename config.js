@@ -1,4 +1,4 @@
-// Personal content: edit this file. Plain text only; keep quotes and commas valid.
+// Personal content. Use **text** for bold. Institution icons: icon + iconAlt.
 const USER_CONFIG = {
   "name": "Haoyu Lei",
   "chineseName": "雷浩瑀",
@@ -24,7 +24,7 @@ const USER_CONFIG = {
     "CUHK": "https://www.cuhk.edu.hk/chinese/index.html",
     "Farzan Farnia": "https://www.cse.cuhk.edu.hk/~farnia/",
     "Chandra Nair": "https://chandra.ie.cuhk.edu.hk/",
-    "Anthony Man-Cho So": "https://www1.se.cuhk.edu.hk/~manchoso/",
+    "Anthony Man-Cho So": "https://www1.se.cuhk.edu.hk/~manchoso/"
   },
   "interests": [
     "Generative World Models",
@@ -96,7 +96,7 @@ const USER_CONFIG = {
       "authors": "Shizhan Gong, Haoyu Lei, Qi Dou, Farzan Farnia",
       "venue": "ICLR 2025",
       "links": {
-        "paper": "https://openreview.net/pdf?id=khuIvzxPRp",
+        "paper": "https://openreview.net/pdf?id=khuIvzxPRp"
       },
       "image": "images/ICLR2025.png",
       "abstract": "We propose an unsupervised adversarial fine-tuning (AFT) with norm-regularization to enhance the visual interpretability of CLIP."
@@ -107,14 +107,14 @@ const USER_CONFIG = {
       "authors": "Haoyu Lei, Amin Gohari, Farzan Farnia",
       "venue": "UAI 2024",
       "links": {
-        "paper": "https://openreview.net/pdf?id=r1t2m5IDVV",
+        "paper": "https://openreview.net/pdf?id=r1t2m5IDVV"
       },
       "image": "images/UAI2024.png",
       "abstract": "We theoretically show that Inductive Biases widely exist in DP-based fair supervised learning algorithms, and further propose a distributionally robust optimization framework to mitigate the biases."
-    },
+    }
   ],
   "news": [
-      {
+    {
       "date": "2026.10",
       "text": "I have joined HUAWEI's IAS BU, ADS Research Department!"
     },
@@ -182,37 +182,53 @@ const USER_CONFIG = {
   "education": [
     {
       "period": "2022.08 - 2026.07",
-      "text": "Ph.D. in Computer Science and Engineering Department, CUHK, Hong Kong SAR."
+      "text": "Ph.D. in Computer Science and Engineering Department, CUHK, Hong Kong SAR.",
+      "icon": "",
+      "iconAlt": ""
     },
     {
       "period": "2017.09 - 2022.07",
-      "text": "Bachelor of Science in Mathematics and Information Engineering (double major), CUHK, Hong Kong SAR."
+      "text": "Bachelor of Science in Mathematics and Information Engineering (double major), CUHK, Hong Kong SAR.",
+      "icon": "",
+      "iconAlt": ""
     }
   ],
   "experience": [
     {
       "period": "2025.06 - 2026.01",
-      "text": "Research intern, Huawei Hong Kong Research Center, Theory Lab, Hong Kong SAR, China"
+      "text": "Research intern, Huawei Hong Kong Research Center, Theory Lab, Hong Kong SAR, China",
+      "icon": "",
+      "iconAlt": ""
     },
     {
       "period": "2024.07 - 2025.01",
-      "text": "Research intern, Huawei Noah's Ark Lab, Decision Making & Reasoning Group, Shenzhen, China"
+      "text": "Research intern, Huawei Noah's Ark Lab, Decision Making & Reasoning Group, Shenzhen, China",
+      "icon": "",
+      "iconAlt": ""
     },
     {
       "period": "2021.08 - 2022.04",
-      "text": "Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR"
+      "text": "Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR",
+      "icon": "",
+      "iconAlt": ""
     },
     {
       "period": "2021.05 - 2021.08",
-      "text": "Research Assistant, advised by Prof. Eliza Mik, Department of Law, CUHK, Hong Kong SAR"
+      "text": "Research Assistant, advised by Prof. Eliza Mik, Department of Law, CUHK, Hong Kong SAR",
+      "icon": "",
+      "iconAlt": ""
     },
     {
       "period": "2020.08 - 2020.12",
-      "text": "Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR"
+      "text": "Research Assistant, advised by Prof. Anthony MC So, Department of SEEM, CUHK, Hong Kong SAR",
+      "icon": "",
+      "iconAlt": ""
     },
     {
       "period": "2019.01 - 2019.03",
-      "text": "Financial Internship, Guotai Junan Securities, Hunan Changsha"
+      "text": "Financial Internship, Guotai Junan Securities, Hunan Changsha",
+      "icon": "",
+      "iconAlt": ""
     }
   ],
   "awards": [
@@ -274,5 +290,27 @@ const USER_CONFIG = {
   "skills": [
     "Languages: English (Advanced), Cantonese (Intermediate), Putonghua (Native)",
     "Programming Skills: Python (Main), Pytorch (Main), Matlab, R, C, C++, C#, Julia, LaTeX"
+  ],
+  "academicService": [
+    {
+      "period": "",
+      "text": ""
+    },
+    {
+      "period": "",
+      "text": ""
+    },
+    {
+      "period": "",
+      "text": ""
+    },
+    {
+      "period": "",
+      "text": ""
+    },
+    {
+      "period": "",
+      "text": ""
+    }
   ]
 };
