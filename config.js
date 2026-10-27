@@ -10,7 +10,8 @@ const USER_CONFIG = {
   "photo": "images/figure.jpg",
   "description": "Haoyu Lei — Generative Models, Embodied AI, Autonomous Driving, and World Models.",
   "bio": [
-    "I have joined HUAWEI’s Intelligent Automotive Solution (IAS) BU, Autonomous Driving Solution (ADS) Research Department at 2026.10. My research focuses on **Physical AI Foundation Models for embodied AI and autonomous driving**.",
+    "I have joined HUAWEI’s Intelligent Automotive Solution (IAS) BU, Autonomous Driving Solution (ADS) Research Department at Oct 2026.",
+    "My research focuses on **Physical AI Foundation Models for embodied AI and autonomous driving**.",
     "I received my **Ph.D. in Computer Science and Engineering from The Chinese University of Hong Kong (CUHK)** in July 2026, advised by Prof. Farzan Farnia. My research interests include diffusion-based generative models, machine learning theory, and trustworthy AI (Robustness, Fairness, and Interpretability).",
     "I received my **B.Sc. in Mathematics and Information Engineering, a double-major program at CUHK**, as part of the ELITE Stream. I was fortunate to be advised by Prof. Chandra Nair and Prof. Anthony Man-Cho So."
   ],
