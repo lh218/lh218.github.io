@@ -9,7 +9,7 @@ const root = document.documentElement;
 const toggle = document.getElementById('themeToggle');
 function setTheme(theme) {
   root.dataset.theme = theme;
-  toggle.title = theme === 'dark' ? 'Switch to light theme' : 'Switch to dark theme';
+  toggle.textContent = theme === 'dark' ? 'Light mode' : 'Dark mode';
   toggle.setAttribute('aria-label', `Switch to ${theme === 'dark' ? 'light' : 'dark'} theme`);
   toggle.setAttribute('aria-pressed', String(theme === 'dark'));
 }
@@ -29,20 +29,22 @@ function resolveHash() {
 }
 window.addEventListener('hashchange', resolveHash);
 requestAnimationFrame(resolveHash);
-
-// Ink's vertical table of contents tracks the section in view.
-const tocLinks = document.querySelectorAll('.toc-link');
-if ('IntersectionObserver' in window) {
-  const observer = new IntersectionObserver(entries => {
-    for (const entry of entries) {
-      if (!entry.isIntersecting) continue;
-      tocLinks.forEach(link => {
-        const active = link.dataset.section === entry.target.id;
-        link.classList.toggle('active', active);
-        if (active) link.setAttribute('aria-current', 'location');
-        else link.removeAttribute('aria-current');
-      });
-    }
-  }, {rootMargin: '-15% 0px -65% 0px'});
-  document.querySelectorAll('section[id], header[id]').forEach(section => observer.observe(section));
+// Keep navigation aligned with the section below the fixed header.
+const navLinks = [...document.querySelectorAll('.nav-links a')];
+const navSections = [...document.querySelectorAll('section[id]')];
+function updateActiveNavigation() {
+ const threshold = document.querySelector('.navbar').getBoundingClientRect().bottom + 60;
+ let current = 'about';
+ for (const section of navSections) {
+  if (section.getBoundingClientRect().top <= threshold) current = section.id;
+ }
+ for (const link of navLinks) {
+  const active = link.getAttribute('href') === '#' + current;
+  link.classList.toggle('active',active);
+  if (active) link.setAttribute('aria-current','location'); else link.removeAttribute('aria-current');
+ }
 }
+window.addEventListener('scroll',updateActiveNavigation,{passive:true});
+window.addEventListener('resize',updateActiveNavigation);
+window.addEventListener('load',updateActiveNavigation);
+requestAnimationFrame(updateActiveNavigation);

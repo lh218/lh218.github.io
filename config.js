@@ -33,7 +33,7 @@ const USER_CONFIG = {
     "Machine Learning Theory",
     "Trustworthy AI"
   ],
-  "selected publications": [
+  "selectedPublications": [
     {
       "year": 2026,
       "title": "Exploring More to Solve More: Boosting Diversity in Text Diffusion Models via Entropy-Based Guidance",
