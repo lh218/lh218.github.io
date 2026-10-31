@@ -82,7 +82,7 @@ const USER_CONFIG = {
     {
       "year": 2025,
       "title": "SPARKE: Scalable Prompt-Aware Diversity and Novelty Guidance in Diffusion Models via RKE Scores",
-      "authors": "Mohammad Jalali*, Haoyu Lei*, Amin Gohari, Farzan Farnia (*Equal Contribution)",
+      "authors": "Mohammad Jalali*, Haoyu Lei*, Amin Gohari, Farzan Farnia",
       "venue": "NeurIPS 2025",
       "links": {
         "paper": "https://openreview.net/pdf?id=1YLpf8nUIq"
